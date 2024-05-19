@@ -1,6 +1,6 @@
 ![pmvsi_shing02 wallpaper](https://github.com/pmvrsi/pmvrsi/assets/121735202/869db27f-feef-418e-8f92-482bde44019e)
-### Howdy 👋 
-# I am paramveersi, I am aspiring software engineer, I am currently learning Python & Swift
+# Howdy 👋 
+### I am paramveersi, I am aspiring software engineer, I am currently learning Python & Swift
 
 <!--
 **pmvrsi/pmvrsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
