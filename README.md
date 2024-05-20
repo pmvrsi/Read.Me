@@ -1,5 +1,5 @@
 ![github_banner](https://github.com/pmvrsi/pmvrsi/assets/121735202/ec80dfb6-9fb2-4c5e-a8a9-b59e6e669419)
-# Howdy 👋 
+# howdy 👋 
 ### i am paramveersi, i am aspiring swe, i am currently learning python & swift
 
 <!--
