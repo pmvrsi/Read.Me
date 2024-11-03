@@ -15,4 +15,4 @@ I'm a Student at The Royal School Wolverhampton and an aspiring SWE (Software En
 
 ---
 
-pmvrsi logo is made by [Shing02](https://www.youtube.com/@Shing02tv).
+<p style="font-size: 12px;">PMVRSI logo is made by <a href="https://www.youtube.com/@Shing02tv">Shing02</a></p>
