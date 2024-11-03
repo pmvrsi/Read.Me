@@ -7,7 +7,7 @@ I'm a Student @ The Royal School Wolverhampton and an aspiring SWE (Software Eng
 ## 🔭 Current Focus
 * 🌱 **Learning:** <br><br> 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,swift&perline=5&theme=light&size=32)](https://skillicons.dev) 
-  <br><br>
+  <br>
 * 📁 **Projects:** pmvrsi.me, and CircuitScope
   
 ## 💻 My Current Setup
