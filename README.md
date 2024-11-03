@@ -12,3 +12,7 @@ I'm a Student at The Royal School Wolverhampton and an aspiring SWE (Software En
 * 🖥️ **Computer:** MacBook Pro M2
 * 📱 **Notetaking Device:** iPad Pro M4
 * 📞 **Mobile Device:** Blackberry Curve 9320
+
+---
+
+pmvrsi logo is made by [Shing02](https://www.youtube.com/@Shing02tv).
