@@ -2,7 +2,7 @@
       I'm <img src="https://pmvrsi.me/pmvrsi.png" alt="PMVRSI Logo" width="100">
   </h1>
 
-  Chief Operating Officer @ <a href="https://github.com/CompuLearn-Foundation">CompuLearn Foundation</a>, Student @ <a href="https://www.theroyalschool.co.uk/">The Royal School Wolverhampton</a> and an aspiring SWE (Software Engineer).  <br>
+Student @ <a href="https://www.theroyalschool.co.uk/">The Royal School Wolverhampton</a> and an aspiring SWE (Software Engineer).  <br>
 
 <p style="font-size: 12px;"> Find out more about me on my <a href="https://bento.me/paramveer">Bento</a></p> 
 
